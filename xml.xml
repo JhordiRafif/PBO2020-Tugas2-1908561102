@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<userData>
+    <userID>09501</userID>
+    <username>jhordirafif</username>
+    <userFirstname>Rafif</userFirstname>
+    <userLastname>Jhordi<userLastname>
+    <password>thrtsyt1wi8as24=</password>
+    <date_joined>2020-10-31 05:15:18.515931</date_joined>
+    <is_superuser>1</is_superuser>
+</userData>
+
+<userprofil>
+     <mahasiswa>
+         <nim>1908561102</nim>
+         <nama>RafifJhordi</nama>
+         <alamat>Denpasar</alamat>
+         <jurusan>Informatika</jurusan>
+     </mahasiswa>
+</userprofil>
+
+<usermatkul>
+    <matakkuliah>
+        <matkul>PBO</matkul>
+        <matkul>RPL</matkul>
+        <matkul>BD</matkul>
+    </matakuliah>
+</usermatkul>
+
+<pbo>
+    <materi>json,xml</materi>>
+</pbo>
