@@ -1,0 +1,43 @@
+{
+    "userData":
+    {
+        "userId":"SJO11MS",
+            "nama":"Rafif Jhordi",
+            "gender":"pria",
+            "umur":"20",
+            "alamat":
+            {
+                "jalan":"Perum batu karu B3",
+                "kota":"Denpasar",
+                "provinsi":"Bali",
+                "postalcode":"90501"
+            }
+    },
+   "profile":{
+        "pekerjaan":"mahasiswa",
+        "universitas":"udayana",
+        "fakultas":"fakultas matematika & ilmu pengetahuan alam",
+        "prodi":"Informatika"
+        },
+    
+        "userId":"SJ042MS",
+            "nama":"Dinda Pertiwi",
+            "gender":"perempuan",
+            "umur":"27",
+            "alamat":
+            {
+                "jalan":"Jalan Raya indarung no.11",
+                "kota":"Padang",
+                "provinsi":"Sumatera Barat",
+                "postalcode":"11012"
+            }
+    }
+    {
+    "profile":{
+        "pekerjaan":"mahasiswa",
+        "universitas":"udayana",
+        "fakultas":"fakultas kedokteran",
+        "prodi":"farmasi"
+        },
+    }
+}
